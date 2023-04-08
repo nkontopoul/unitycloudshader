@@ -1,6 +1,6 @@
 # unitycloudshader
-Simple Unity Cloud Shader
-This is my first attempt to create a simple noise filter for fractal clouds in Unity.
+Simple Unity Cloud Shader:
+This is my first attempt to create a simple noise filter for fractal clouds in Unity 2021.
 You can use other noise functions as well, such as Perlin noise or Value noise, depending on your preference.
 This shader uses the Lambertian lighting model to create a simple appearance. If you want more realistic lighting, you can change the lighting model to something else, like BlinnPhong or Specular.
 
